@@ -1,0 +1,40 @@
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# Env
+*.iml
+
+# Local configuration (never to be committed)
+# (keys, etc.)
+_config_dev.yml # NOTE: you may use different naming, obviously
+
+# Jekyll
+.sass-cache/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Algolia key file
+# (from Algolia cli interface:)
+# Please, define your API key either by:
+# 1/ Defining an ENV variable when calling `jekyll algolia``
+#    $ ALGOLIA_API_KEY='your_api_key' jekyll algolia
+# 2/ Save your API key in a named `_algolia_api_key` in your source directory 
+#    If you do this, we strongly recommend you to NOT track this file in your versionning system. 
+_algolia_api_key
+
+CNAME
