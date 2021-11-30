@@ -69,7 +69,7 @@ name="BTCMTL"
 desc="BTCMTL is a stablecoin for bitcoins stored with 100% reserve under the guarantees of the MTL-fund. It guarantees the applicant, upon request, the exchange of this token for real bitcoins."
 conditions="BTCMTL secured by 100% reserve assets in bitcoin."
 redemption_instructions="For the owner of these assets, the bearer BTCMTL has the right, in a 1 to 1 ratio, to replace his tokens with bitcoin, by sending him tokens."
-image="https://mtl.montelibero.org/images/btcmtl-small-logo.jpeg"
+image="https://mtl.montelibero.org/images/btcmtl-small-logo.png"
 
 [[CURRENCIES]]
 code="BTCDEBT"
@@ -82,7 +82,7 @@ is_asset_anchored=false
 is_unlimited=true
 name="BTCDEBT"
 desc="BTCDEBT the amount of guarantees for the exchange of stablecoins bitcoins BTCMTL for real bitcoins from the side of the specific account on which they are stored."
-image="https://mtl.montelibero.org/images/btcdebt-small-logo.jpeg"
+image="https://mtl.montelibero.org/images/btcdebt-small-logo.png"
 
 [[CURRENCIES]]
 code="MTLand"
