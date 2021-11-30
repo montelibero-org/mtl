@@ -1,0 +1,126 @@
+# Montelibero Stellar Anchor <https://montelibero.org>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+
+ACCOUNTS=[
+"GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V",
+"GDX23CPGMQ4LN55VGEDVFZPAJMAUEHSHAMJ2GMCU2ZSHN5QF4TMZYPIS"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Montelibero"
+ORG_DBA="Montelibero"
+ORG_URL="https://montelibero.org"
+ORG_LOGO="https://montelibero.org/images/logo.png"
+ORG_DESCRIPTION="Montelibero - investment crypto corporation for the development and support of projects in the field of individual freedom"
+ORG_GITHUB="montelibero-org"
+ORG_OFFICIAL_EMAIL="montelibero.fspe@gmail.com"
+ORG_SUPPORT_EMAIL="montelibero.fspe@gmail.com"
+
+[[CURRENCIES]]
+code="MTL"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_unlimited=true
+name=" Montelibero"
+desc="MTL - these are crypto-shares in the form of investment fund tokens that you can purchase, wanting to support its activities, and have your own formalized share in their fruits. By owning more than 10% of these shares, you automatically receive a membership in the Board of Directors of the Fund and participate in the development and adoption of all decisions, including the joint management of this token."
+image="https://mtl.montelibero.org/images/mtl-small-logo.png"
+
+[[CURRENCIES]]
+code="EURMTL"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="EUR"
+is_asset_anchored=true
+is_unlimited=true
+name="EURMTL"
+desc="EURMTL stablecoin with 100% reservation, which MTL Foundation undertakes to exchange to bearers in Montenegro at the rate of 1 to 1 for euros."
+conditions="EURMTL secured by 100% reserve assets in euros."
+redemption_instructions="For the owner of these assets, the bearer EURMTL has the right, in a 1 to 1 ratio, to replace his tokens with fiat euros, by sending him tokens."
+image="https://mtl.montelibero.org/images/eurmtl-small-logo.png"
+
+[[CURRENCIES]]
+code="EURDEBT"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="private"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="EUR"
+is_asset_anchored=false
+is_unlimited=true
+name="EURDEBT"
+desc="The asset fixes the obligations of the guarantor for the maximum amount of exchange for fiat euros available to the bearer EURMTL."
+conditions="The asset is provided free of charge by the issuer - MTL - to the guarantors of the fund, who undertake to exchange EURMTL in this amount at the rate of 1: 1 to their first bearer for fiat funds. The asset guarantees that its owner has the appropriate amount to exchange EURMTL for fiat funds. When exchanging EURMTL for fiat, both tokens are redeemed by sending them back to the issuer - the MTL fund."
+image="https://mtl.montelibero.org/images/eurdebt-small-logo.png"
+
+[[CURRENCIES]]
+code="BTCMTL"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=7
+anchor_asset_type="crypto"
+anchor_asset="BTC"
+is_asset_anchored=true
+is_unlimited=true
+name="BTCMTL"
+desc="BTCMTL is a stablecoin for bitcoins stored with 100% reserve under the guarantees of the MTL-fund. It guarantees the applicant, upon request, the exchange of this token for real bitcoins."
+conditions="BTCMTL secured by 100% reserve assets in bitcoin."
+redemption_instructions="For the owner of these assets, the bearer BTCMTL has the right, in a 1 to 1 ratio, to replace his tokens with bitcoin, by sending him tokens."
+image="https://mtl.montelibero.org/images/btcmtl-small-logo.jpeg"
+
+[[CURRENCIES]]
+code="BTCDEBT"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="private"
+display_decimals=7
+anchor_asset_type="crypto"
+anchor_asset="BTC"
+is_asset_anchored=false
+is_unlimited=true
+name="BTCDEBT"
+desc="BTCDEBT the amount of guarantees for the exchange of stablecoins bitcoins BTCMTL for real bitcoins from the side of the specific account on which they are stored."
+image="https://mtl.montelibero.org/images/btcdebt-small-logo.jpeg"
+
+[[CURRENCIES]]
+code="MTLand"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_unlimited=true
+name="MTLand"
+desc="Option 1 to 1 from the euro with the obligation to buy land in Montenegro and give buyers the right to privatize it on a first come, first served basis."
+conditions="The purchase of a token for EURMTL from an MTL distribution account obliges MTL-Fund to accumulate and redeem land in Montenegro, giving the holders of these tokens a permanent right to exchange these tokens for other assets or privatize a proportional land area for them, taking into account the included costs associated with land ownership and preparation land for privatization. The token is not an investment decision and retains a stable value of 1 euro, only reflecting the financial contribution of its buyer in the process of joint land purchase. To exercise the right to privatize a land plot for the invested amount, contact the issuing organization."
+image="https://mtl.montelibero.org/images/mtland-small-logo.png"
+
+[[CURRENCIES]]
+code="AUMTL"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=7
+anchor_asset_type="commodity"
+anchor_asset="AU"
+is_asset_anchored=true
+is_unlimited=true
+name="AUMTL"
+desc=""
+conditions=""
+redemption_instructions=""
+image="https://mtl.montelibero.org/images/aumtl-small-logo.png"
+
+[[CURRENCIES]]
+code="AUDEBT"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="private"
+display_decimals=7
+anchor_asset_type="commodity"
+anchor_asset="AU"
+is_asset_anchored=false
+is_unlimited=true
+name="AUDEBT"
+desc=""
+conditions=""
+image="https://mtl.montelibero.org/images/audebt-small-logo.png"
