@@ -106,9 +106,9 @@ anchor_asset="AU"
 is_asset_anchored=true
 is_unlimited=true
 name="AUMTL"
-desc=""
-conditions=""
-redemption_instructions=""
+desc="1 token is a tokenized gram of certified 999-carat gold that can be exchanged for gold bars of the size available from guarantors holding the AUDEBT token."
+conditions="Token holders have the right to present it for exchange in suitable amounts to guarantors (owners of AUDEBT) who are required to exchange for certified 999 gold bars if the required volume corresponds to the bars available to them, and the amount of AUDEBT on their accounts exceeds the amount available from the guarantors AUMTL tokens for the volume of AUMTL tokens presented for exchange. To contact the nearest guarantor, you can contact the MTL-Fund."
+redemption_instructions="You can sell a token on the secondary market through an order or, if you have the minimum required number of tokens (equal to a gram of certified 999 gold bars) to exchange them for bars, exchange them for the tokenized product itself with the guarantors. - holders of the required debt in AUDEBT"
 image="https://mtl.montelibero.org/images/aumtl-small-logo.png"
 
 [[CURRENCIES]]
@@ -121,6 +121,6 @@ anchor_asset="AU"
 is_asset_anchored=false
 is_unlimited=true
 name="AUDEBT"
-desc=""
-conditions=""
-image="https://mtl.montelibero.org/images/audebt-small-logo.png"
+desc="a token of the guarantors of a decentralized system of tokenized gold trading, confirming that its owner has a corresponding amount of certified 999 gold bullion for exchange for an AUMTL token, provided that 1 token is equal to 1 gram of gold."
+conditions="The guarantor is obliged to exchange the corresponding number of tokens for gold bars to the first bearer of the AUMTL token, provided that the balance of the guarantor in the AUDEBT token is equal to or exceeds the requested amount of AUMTL tokens on the guarantor's balance, and this amount itself corresponds to the weight of the gold bars of certified 999 fine gold available from the guarantor. If a specific guarantor has the ingots necessary for your weight requests, please clarify in advance and pay attention to the presence of a proportional excess of AUDEBT over AUMTL on the public stellar account in case you want to use not the right, but his obligation to exchange."
+image="https://montelibero.org/images/audebt-small-logo.png"
