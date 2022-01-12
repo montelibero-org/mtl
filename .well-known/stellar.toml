@@ -136,6 +136,6 @@ is_asset_anchored = true
 is_unlimited = true
 name = "MTLMiner"
 desc = "1 token is always equal to 1 euro, invested in a targeted way in the purchase and provision of cryptocurrency mining in Montenegro."
-conditions = "Holders of tokens receive public guarantees from MTLFund to receive a proportional share of their contribution from the profit received as a result of mining and paid in BTCMTL as the income from mining actually arises and funds are received on the distribution accounts of the Fund. for sale on the balance sheet of the fund itself. "
+conditions = "Holders of tokens receive public guarantees from MTLFund to receive a proportional share of their contribution from the profit received as a result of mining and paid in BTCMTL as the income from mining actually arises and funds are received on the distribution accounts of the Fund."
 redemption_instruction = ""
 image = "https://mtl.montelibero.org/images/mtlminer-small-logo.png"
