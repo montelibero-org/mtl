@@ -125,17 +125,13 @@ desc="a token of the guarantors of a decentralized system of tokenized gold trad
 conditions="The guarantor is obliged to exchange the corresponding number of tokens for gold bars to the first bearer of the AUMTL token, provided that the balance of the guarantor in the AUDEBT token is equal to or exceeds the requested amount of AUMTL tokens on the guarantor's balance, and this amount itself corresponds to the weight of the gold bars of certified 999 fine gold available from the guarantor. If a specific guarantor has the ingots necessary for your weight requests, please clarify in advance and pay attention to the presence of a proportional excess of AUDEBT over AUMTL on the public stellar account in case you want to use not the right, but his obligation to exchange."
 image="https://mtl.montelibero.org/images/audebt-small-logo.png"
 
-[[CURRENCY]]
-code = "MTLMiner"
-issuer = "GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
-status = "live"
-display_decimals = 7
-anchor_asset_type = "commitments"
-anchor_active = "Miner"
-is_asset_anchored = true
-is_unlimited = true
-name = "MTLMiner"
-desc = "1 token is always equal to 1 euro, invested in a targeted way in the purchase and provision of cryptocurrency mining in Montenegro."
-conditions = "Holders of tokens receive public guarantees from MTLFund to receive a proportional share of their contribution from the profit received as a result of mining and paid in BTCMTL as the income from mining actually arises and funds are received on the distribution accounts of the Fund."
-redemption_instruction = ""
-image = "https://mtl.montelibero.org/images/mtlminer-small-logo.png"
+[[CURRENCIES]]
+code="MTLMiner"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=7
+is_unlimited=true
+name="MTLMiner"
+desc="1 token is always equal to 1 euro, invested in a targeted way in the purchase and provision of cryptocurrency mining in Montenegro."
+conditions="Holders of tokens receive public guarantees from MTLFund to receive a proportional share of their contribution from the profit received as a result of mining and paid in BTCMTL as the income from mining actually arises and funds are received on the distribution accounts of the Fund."
+image="https://mtl.montelibero.org/images/mtlminer-small-logo.png"
