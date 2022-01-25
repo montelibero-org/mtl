@@ -137,12 +137,12 @@ conditions="Holders of tokens receive public guarantees from MTLFund to receive 
 image="https://mtl.montelibero.org/images/mtlminer-small-logo.png"
 
 [[CURRENCIES]]
-code="MTLMRECT"
+code="MTLRECT"
 issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
 status="live"
 display_decimals=7
 is_unlimited=true
-name="MTLMRECT"
+name="MTLRECT"
 desc="1 token is always equal to 1 MTL deposited as collateral to ensure 200% reserve of the token pair EURMTL and EURDEBT."
 conditions="The owners of the token retain the right to receive dividends and voting power in the MTL Fund, as well as the reverse exchange of the token pair for MTL, however, in case of violation of the deadlines for repaying the debt requested by the fund or a prolonged (more than a month) negative balance, their collateral is reduced by 1% from the amount per day of violation of obligations."
 image="https://mtl.montelibero.org/images/mtlrect-small-logo.png"
