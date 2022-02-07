@@ -33,5 +33,36 @@
             "percent": "4",
             "comment": ""
         }]
-    }
+    },
+    "GDRLKNTYVY6ITS5LLYKS743JG4SMGLQVJB2AUFA23LM4TXCYGMMNLI3A": {
+        "recipients": [{
+            "recipient": "GBYH3M3REQM3WQOJY26FYORN23EXY22FWBHVZ74TT5GYOF22IIA7YSOX",
+            "percent": "5",
+            "comment": ""
+        }, {
+        "recipients": [{
+            "recipient": "GARNOMR62CRFSI2G2OQYA5SPGFFDBBY566AWZF4637MNF74UZMBNOZVD",
+            "percent": "5",
+            "comment": ""
+        }, {
+        "recipients": [{
+            "recipient": "GCPOWDQQDVSAQGJXZW3EWPPJ5JCF4KTTHBYNB4U54AKQVDLZXLLYMXY7",
+            "percent": "5",
+            "comment": ""
+        }, {
+        "recipients": [{
+            "recipient": "GDLTH4KKMA4R2JGKA7XKI5DLHJBUT42D5RHVK6SS6YHZZLHVLCWJAYXI",
+            "percent": "5",
+            "comment": ""
+        }, {
+        "recipients": [{
+            "recipient": "GCPT3X4FJBMUBR5AIB7SEUQX7HJ4XX3K4TNI2J7WIHMHMFGDMRRJJVWL",
+            "percent": "5",
+            "comment": ""
+        }, {
+        "recipients": [{
+            "recipient": "GBTJHR47P53XIRS33JBH7GQKZZQVAGFHF6U2J7IPSRBOK4VXCMKHSK7Q",
+            "percent": "5",
+            "comment": ""
+        }]
 }
