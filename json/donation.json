@@ -100,5 +100,23 @@
             "comment": ""
          }
       ]
+   },
+   "GDV3OF6AUAAAAPKT3W4WB6ACJF5O6DRKRWFFZRGZ4U4T3RKT6HYDMPXH":{
+      "recipients": [
+         {
+            "recipient": "GDLTH4KKMA4R2JGKA7XKI5DLHJBUT42D5RHVK6SS6YHZZLHVLCWJAYXI",
+            "percent": "100",
+            "comment": ""
+         }
+      ]
+   },
+   "GBOZAJYX43ANOM66SZZFBDG7VZ2EGEOTIK5FGWRO54GLIZAKHTLSXXWM":{
+      "recipients": [
+         {
+            "recipient": "GCPOWDQQDVSAQGJXZW3EWPPJ5JCF4KTTHBYNB4U54AKQVDLZXLLYMXY7",
+            "percent": "100",
+            "comment": ""
+         }
+      ]     
    }
 }
