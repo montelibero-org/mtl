@@ -141,5 +141,23 @@
             "comment": ""
          }
       ]     
-   }   
+   },
+   "GCODQDDIFNOXEUXJ6UPKQSLMZX5JJW32MUMMK3L6IFL5YNKVJ53Z5CO5":{
+      "recipients": [
+         {
+            "recipient": "GCPOWDQQDVSAQGJXZW3EWPPJ5JCF4KTTHBYNB4U54AKQVDLZXLLYMXY7",
+            "percent": "100",
+            "comment": ""
+         }
+      ]     
+   },
+   "GDYE2HXD6SMPMXVBQGF533HRECQWZEC7QEHDBLLUWMGYFZA7IFQMQGSH":{
+      "recipients": [
+         {
+            "recipient": "GCPOWDQQDVSAQGJXZW3EWPPJ5JCF4KTTHBYNB4U54AKQVDLZXLLYMXY7",
+            "percent": "25",
+            "comment": ""
+         }
+      ]     
+   }
 }
