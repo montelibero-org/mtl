@@ -159,5 +159,14 @@
             "comment": ""
          }
       ]     
+   },
+   "GACBSNMGR32HMG2AXTE4CSJHTEZ7LUDBU3SNPCG4TBBE4XKVBQZ55I5M":{
+      "recipients": [
+         {
+            "recipient": "GBTJHR47P53XIRS33JBH7GQKZZQVAGFHF6U2J7IPSRBOK4VXCMKHSK7Q",
+            "percent": "10",
+            "comment": ""
+         }
+      ]     
    }
 }
