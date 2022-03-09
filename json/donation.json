@@ -81,24 +81,29 @@
       "recipients": [
          {
             "recipient": "GCPOWDQQDVSAQGJXZW3EWPPJ5JCF4KTTHBYNB4U54AKQVDLZXLLYMXY7",
-            "percent": "10",
+            "percent": "8",
             "comment": ""
          },
          {
             "recipient": "GDLTH4KKMA4R2JGKA7XKI5DLHJBUT42D5RHVK6SS6YHZZLHVLCWJAYXI",
-            "percent": "10",
+            "percent": "8",
             "comment": ""
          },
          {
             "recipient": "GCPT3X4FJBMUBR5AIB7SEUQX7HJ4XX3K4TNI2J7WIHMHMFGDMRRJJVWL",
-            "percent": "10",
+            "percent": "8",
             "comment": ""
          },
          {
             "recipient": "GBTJHR47P53XIRS33JBH7GQKZZQVAGFHF6U2J7IPSRBOK4VXCMKHSK7Q",
-            "percent": "10",
+            "percent": "8",
             "comment": ""
-         }
+         },
+         {
+            "recipient": "GAKVQQD5HFSSXWN3E3K6QL573NQG5GJNFKW52RY6FPXH3CYVVADCDH4U",
+            "percent": "8",
+            "comment": ""
+         }         
       ]
    },
    "GDV3OF6AUAAAAPKT3W4WB6ACJF5O6DRKRWFFZRGZ4U4T3RKT6HYDMPXH":{
