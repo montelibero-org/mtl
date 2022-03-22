@@ -40,7 +40,12 @@
             "recipient": "GDLTH4KKMA4R2JGKA7XKI5DLHJBUT42D5RHVK6SS6YHZZLHVLCWJAYXI",
             "percent": "4",
             "comment": ""
-         }
+         },
+         {
+            "recipient": "GAKVQQD5HFSSXWN3E3K6QL573NQG5GJNFKW52RY6FPXH3CYVVADCDH4U",
+            "percent": "1",
+            "comment": ""
+         }         
       ]
    },
    "GDRLKNTYVY6ITS5LLYKS743JG4SMGLQVJB2AUFA23LM4TXCYGMMNLI3A": {
