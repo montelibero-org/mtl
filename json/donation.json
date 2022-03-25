@@ -50,7 +50,12 @@
             "recipient": "GA6COOXOZOA6EWP6KPFYR752EDUXTWQ6IBLEJH6LYI3CUSVVAQXH2NII",
             "percent": "0.5",
             "comment": ""
-         }
+         },
+         {
+            "recipient": "GAQPZKOYGJDEWLYO6PBOJ4NG6HNBBNNZSOJNKUUCVJGLBQIQSO5AC26F",
+            "percent": "0.1",
+            "comment": ""
+         }         
       ]
    },
    "GDRLKNTYVY6ITS5LLYKS743JG4SMGLQVJB2AUFA23LM4TXCYGMMNLI3A": {
