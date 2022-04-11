@@ -75,6 +75,16 @@
             "recipient": "GAHFXOTGJQKAKAOAXEVXNOOMCJJTYDO7BUUGYBR4BHOL36PB6VB5UL2X",
             "percent": "0.1",
             "comment": ""
+         },
+         {
+            "recipient": "GCPJUXPETZEIJNEAAEO2LGZIA6IQNNWGOHPNP4ZQECDS6IKKIGJO5LFV",
+            "percent": "0.1",
+            "comment": ""
+         },
+         {
+            "recipient": "GDRLKNTYVY6ITS5LLYKS743JG4SMGLQVJB2AUFA23LM4TXCYGMMNLI3A",
+            "percent": "0.2",
+            "comment": ""
          }
       ]
    },
