@@ -148,3 +148,25 @@ name="MTLRECT"
 desc="1 token is always equal to 1 MTL deposited as collateral to ensure 200% reserve of the token pair EURMTL and EURDEBT."
 conditions="The owners of the token retain the right to receive dividends and voting power in the MTL Fund, as well as the reverse exchange of the token pair for MTL, however, in case of violation of the deadlines for repaying the debt requested by the fund or a prolonged (more than a month) negative balance, their collateral is reduced by 1% from the amount per day of violation of obligations."
 image="https://mtl.montelibero.org/images/mtlrect-small-logo.png"
+
+[[CURRENCIES]]
+code="iTrade"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=7
+is_unlimited=true
+name="iTrade"
+desc="iTrade tocken in USD"
+conditions="iTrade tocken in USD"
+image="https://mtl.montelibero.org/images/iTrade.png"
+
+[[CURRENCIES]]
+code="iDEBT"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=7
+is_unlimited=true
+name="iDEBT"
+desc="iDEBT in EUR"
+conditions="iDEBT in EUR"
+image="https://mtl.montelibero.org/images/iDEBT.png"
