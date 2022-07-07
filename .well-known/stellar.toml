@@ -151,7 +151,7 @@ image="https://mtl.montelibero.org/images/mtlrect-small-logo.png"
 
 [[CURRENCIES]]
 code="iTrade"
-issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+issuer="GBK2NV2L6A6TLKJSEJX3YZH7DEEHOOLB56WIK64Y5T2SFGNCG5FABKUB"
 status="live"
 display_decimals=7
 is_unlimited=true
@@ -162,7 +162,7 @@ image="https://mtl.montelibero.org/images/iTrade.png"
 
 [[CURRENCIES]]
 code="iDEBT"
-issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+issuer="GBK2NV2L6A6TLKJSEJX3YZH7DEEHOOLB56WIK64Y5T2SFGNCG5FABKUB"
 status="live"
 display_decimals=7
 is_unlimited=true
