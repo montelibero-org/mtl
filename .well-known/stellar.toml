@@ -170,3 +170,13 @@ name="iDEBT"
 desc="iDEBT in EUR"
 conditions="iDEBT in EUR"
 image="https://mtl.montelibero.org/images/iDEBT.png"
+
+[[CURRENCIES]]
+code="SATSMTL"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=7
+is_unlimited=true
+name="Satoshi MTL"
+desc="stablecoin to satoshi with guaranteed exchange to BTCMTL"
+image="https://mtl.montelibero.org/images/SATS-small-logo.png"
