@@ -37,8 +37,8 @@ Any shareholder or participant in the movement may also become involved in the w
 <h2><b>Акционерам фонда Монтелиберо</b></h2>
 <h3><b>Бриф-гайд</b></h3>
 <ol>
- 	<li>Если ещё не имеете МТЛ-токенов, запросите через чат-бота поддержки <a href="https://t.me/mtl_helper_bot">@mtl_helper_bot</a> с кодовым словом «МТЛ».</li>
- 	<li>Если уже имеете МТЛ-токены:</li>
+ 	<li>Если ещё не имеете MTL-токенов, запросите через чат-бота поддержки <a href="https://t.me/mtl_helper_bot">@mtl_helper_bot</a> с кодовым словом «МТЛ».</li>
+ 	<li>Если уже имеете MTL-токены:</li>
 </ol>
 <ul>
  	<li aria-level="1">заходите <a href="https://t.me/+Ac7mQTKyIIVmZjAy">в закрытый чат акционеров</a>;</li>
