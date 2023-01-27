@@ -2,8 +2,6 @@
 
 Live: https://mtl.montelibero.org
 
-Проверка
-
 The repository is a part of the [Montelibero Organization](https://github.com/montelibero-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contributing
