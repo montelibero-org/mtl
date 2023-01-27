@@ -182,11 +182,11 @@ desc="stablecoin to satoshi with guaranteed exchange to BTCMTL"
 image="https://mtl.montelibero.org/images/SATSMTL-small-logo.png"
 
 [[CURRENCIES]]
-code="MTLCp12a4"
+code="BP1369p12a4"
 issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
 status="live"
-display_decimals=7
+display_decimals=0
 is_unlimited=true
-name="MTLC plot12 apart4"
+name="BP 1369 p12 a4"
 desc="NFT fixing full property rights in MTL tokenomics for apartment #4 with an area of 23.86 sq. m, in a state of pre-finishing, with connection to communications, on the 2nd floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area, transferring in exchange for 31 thousand EURMTL, excluding tax costs."
 image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
