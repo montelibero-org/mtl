@@ -191,3 +191,590 @@ name="BP 1369 p12 a4"
 desc="NFT fixing full property rights in MTL tokenomics for apartment #4 with an area of 23.86 sq. m, in a state of pre-finishing, with connection to communications, on the 2nd floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area of the municipality of Bar, transferring in exchange for 31 thousand EURMTL, excluding tax costs."
 image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
 fixed_number=1
+
+[[CURRENCIES]]
+code="BP1363p3"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1363p3"
+desc="NFT secures property rights in MTL tokenomics for plot No. 1363/3 in the Pečurice area of the Bar municipality. The land area is 660.24 sq. m."
+image="https://mtl.montelibero.org/images/MTLCITY-1363-3.jpg"
+
+[[CURRENCIES]]
+code="BP1369p1"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p1"
+desc="NFT secures property rights in MTL tokenomics for plot No. 1369/1 in the Pečurice area of the Bar municipality. The land area is 1330.23 sq. m."
+image="https://mtl.montelibero.org/images/MTLCITY-1.jpg"
+
+[[CURRENCIES]]
+code="BP1369p2"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p2"
+desc="NFT secures property rights in MTL tokenomics for plot No. 1369/2 in the Pečurice area of the Bar municipality. The land area is 530.78  sq. m."
+image="https://mtl.montelibero.org/images/MTLCITY-2.jpg"
+
+[[CURRENCIES]]
+code="BP1369p4"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p4"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/4 in the Pečurice area of the Bar municipality. The land area is 253.16 sq. m. The land boundaries are:
+  42.032482 19.166621
+  42.032347	19.166821
+  42.032287	19.166693
+  42.032404	19.166519"""
+image="https://mtl.montelibero.org/images/MTLCITY-4.jpg"
+
+[[CURRENCIES]]
+code="BP1369p5"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p5"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/5 in the Pečurice area of the Bar municipality. The land area is 244.82 sq. m. The land boundaries are:
+  42.032513	19.166858
+  ?
+  42.032347	19.166821
+  42.032411	19.166726"""
+image="https://mtl.montelibero.org/images/MTLCITY-5.jpg"
+
+[[CURRENCIES]]
+code="BP1369p6"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p6"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/6 in the Pečurice area of the Bar municipality. The land area is 132.36 sq. m. The land boundaries are:
+  42.032527	19.166679
+  42.032513	19.166858
+  42.032411	19.166726
+  42.032482	19.166621"""
+image="https://mtl.montelibero.org/images/MTLCITY-6.jpg"
+
+[[CURRENCIES]]
+code="BP1369p7"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p7"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/7 in the Pečurice area of the Bar municipality. The land area is 180.79 sq. m. The land boundaries are:
+  42.032577	19.166567
+  42.032527	19.166679
+  42.032422	19.166492
+  42.03247	19.166428"""
+image="https://mtl.montelibero.org/images/MTLCITY-7.jpg"
+
+[[CURRENCIES]]
+code="BP1369p8"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p8"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/8 in the Pečurice area of the Bar municipality. The land area is 163.91 sq. m. The land boundaries are:
+  42.032637	19.166478
+  42.032577	19.166567
+  42.03247	19.166428
+  42.032533	19.166342"""
+image="https://mtl.montelibero.org/images/MTLCITY-8.jpg"
+
+[[CURRENCIES]]
+code="BP1369p9"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p9"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/9 in the Pečurice area of the Bar municipality. The land area is 197 sq. m. The land boundaries are:
+  42.03271 19.166383
+  42.032637 19.166478
+  42.032533 19.166342
+  42.032606 19.166242"""
+image="https://mtl.montelibero.org/images/MTLCITY-9.jpg"
+
+[[CURRENCIES]]
+code="BP1369p10"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p10"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/10 in the Pečurice area of the Bar municipality. The land area is 199.45 sq. m. The land boundaries are:
+  42.032606	19.166242
+  42.032511	19.166371
+  42.032405	19.166247
+  42.032481	19.166151"""
+image="https://mtl.montelibero.org/images/MTLCITY-10.jpg"
+
+[[CURRENCIES]]
+code="BP1369p11"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p11"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/11 in the Pečurice area of the Bar municipality. The land area is 214.32 sq. m. The land boundaries are:
+  42.032511	19.166371
+  42.032422	19.166492
+  42.032321	19.166375
+  42.032405	19.166247"""
+image="https://mtl.montelibero.org/images/MTLCITY-11.jpg"
+
+[[CURRENCIES]]
+code="BP1369p12"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p12"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/12 in the Pečurice area of the Bar municipality. The land area is 221.94 sq. m. The land boundaries are:
+  42.032422	19.166492
+  42.032318	19.166646
+  42.032249	19.166497
+  42.032321	19.166375"""
+image="https://mtl.montelibero.org/images/MTLCITY-12.jpg"
+
+[[CURRENCIES]]
+code="BP1369p13"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p13"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/13 in the Pečurice area of the Bar municipality. The land area is 163.89 sq. m. The land boundaries are:
+  42.032273	19.166325
+  42.03215	19.166476
+  42.03208	19.166413
+  42.032248	19.166268"""
+image="https://mtl.montelibero.org/images/MTLCITY-13.jpg"
+
+[[CURRENCIES]]
+code="BP1369p14"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p14"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/14 in the Pečurice area of the Bar municipality. The land area is 177.09 sq. m. The land boundaries are:
+  42.032248	19.166268
+  42.03208	19.166413
+  42.032037	19.1661
+  42.032054	19.166095
+  42.032081	19.166246
+  42.032082	19.16628
+  42.032245	19.166229"""
+image="https://mtl.montelibero.org/images/MTLCITY-14.jpg"
+
+[[CURRENCIES]]
+code="BP1369p15"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p15"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/15 in the Pečurice area of the Bar municipality. The land area is 287.68 sq. m. The land boundaries are:
+  42.032268	19.166201
+  42.032245	19.166229
+  42.032082	19.16628
+  42.032054	19.166095
+  42.032037	19.1661
+  42.03209	19.166011"""
+image="https://mtl.montelibero.org/images/MTLCITY-15.jpg"
+
+[[CURRENCIES]]
+code="BP1369p16"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p16"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/16 in the Pečurice area of the Bar municipality. The land area is 288.42 sq. m. The land boundaries are:
+  42.032309	19.166167
+  42.032268	19.166201
+  42.03209	19.166011
+  42.032238	19.165904"""
+image="https://mtl.montelibero.org/images/MTLCITY-16.jpg"
+
+[[CURRENCIES]]
+code="BP1369p17"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p17"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/17 in the Pečurice area of the Bar municipality. The land area is 287.30 sq. m. The land boundaries are:
+  42.032433	19.166058
+  42.032309	19.166167
+  42.032238	19.165904
+  ?"""
+image="https://mtl.montelibero.org/images/MTLCITY-17.jpg"
+
+[[CURRENCIES]]
+code="BP1369p18"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p18"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/18 in the Pečurice area of the Bar municipality. The land area is 209.46 sq. m. The land boundaries are:
+  42.032665	19.165972
+  42.032563	19.166103
+  42.032532	19.166077
+  42.032452	19.165971
+  42.032603	19.165894"""
+image="https://mtl.montelibero.org/images/MTLCITY-18.jpg"
+
+[[CURRENCIES]]
+code="BP1369p19"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p19"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/19 in the Pečurice area of the Bar municipality. The land area is 108.91 sq. m. The land boundaries are:
+  42.032751	19.166079
+  42.032681	19.166168
+  42.032652	19.166176
+  42.032602	19.166135
+  42.032698	19.166013"""
+image="https://mtl.montelibero.org/images/MTLCITY-19.jpg"
+
+[[CURRENCIES]]
+code="BP1369p20"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p20"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/20 in the Pečurice area of the Bar municipality. The land area is 368.88 sq. m. The land boundaries are:
+  42.032882	19.165912
+  42.032751	19.166079
+  42.032603	19.165894
+  42.032786	19.165792"""
+image="https://mtl.montelibero.org/images/MTLCITY-20.jpg"
+
+[[CURRENCIES]]
+code="BP1369p21"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p21"
+desc="""
+  NFT secures property rights in MTL tokenomics for plot No. 1369/21 in the Pečurice area of the Bar municipality. The land area is 200.09 sq. m. The land boundaries are:
+  42.033007	19.165805
+  42.032882	19.165912
+  42.032786	19.165792
+  ?"""
+image="https://mtl.montelibero.org/images/MTLCITY-21.jpg"
+
+[[CURRENCIES]]
+code="BP1369p22"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p22"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/22 in the Pečurice area of the Bar municipality. The land area is 202.63 sq. m. The land boundaries are:
+  42.032726	19.166194
+  42.03285	19.166349
+  42.032731	19.166225
+  42.032726	19.166194
+  42.03279	19.166112"""
+image="https://mtl.montelibero.org/images/MTLCITY-22.jpg"
+
+[[CURRENCIES]]
+code="BP1369p23"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p23"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/23 in the Pečurice area of the Bar municipality. The land area is 188.58 sq. m. The land boundaries are:
+  42.032982	19.166181
+  42.032917	19.166264
+  42.03279	19.166112
+  42.032856	19.166029"""
+image="https://mtl.montelibero.org/images/MTLCITY-23.jpg"
+
+[[CURRENCIES]]
+code="BP1369p24"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p24"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/24 in the Pečurice area of the Bar municipality. The land area is 281.45 sq. m. The land boundaries are:
+  42.033081	19.166056
+  42.032982	19.166181
+  42.032856	19.166029
+  42.03293	19.165934
+  42.03296	19.165911"""
+image="https://mtl.montelibero.org/images/MTLCITY-24.jpg"
+
+[[CURRENCIES]]
+code="BP1369p25"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p25"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/25 in the Pečurice area of the Bar municipality. The land area is 143.44 sq. m. The land boundaries are:
+  42.033146	19.165972
+  42.033081	19.166056
+  42.03296	19.165911
+  42.032974	19.165899
+  42.03302	19.165885"""
+image="https://mtl.montelibero.org/images/MTLCITY-25.jpg"
+
+[[CURRENCIES]]
+code="BP1369p26"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p26"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/26 in the Pečurice area of the Bar municipality. The land area is 205.76 sq. m. The land boundaries are:
+  42.03304 19.166411
+  42.032975	19.166496
+  42.032877	19.166415
+  42.03285	19.166349
+  42.032917	19.166264"""
+image="https://mtl.montelibero.org/images/MTLCITY-26.jpg"
+
+[[CURRENCIES]]
+code="BP1369p27"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p27"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/27 in the Pečurice area of the Bar municipality. The land area is 182.41 sq. m. The land boundaries are:
+  42.033104	19.166326
+  42.033104	19.166326
+  42.032917	19.166264
+  42.032982	19.166181"""
+image="https://mtl.montelibero.org/images/MTLCITY-27.jpg"
+
+[[CURRENCIES]]
+code="BP1369p28"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p28"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/28 in the Pečurice area of the Bar municipality. The land area is 270.23 sq. m. The land boundaries are:
+  42.033201	19.166199
+  42.033104	19.166326
+  42.032982	19.166181
+  42.033081	19.166056"""
+image="https://mtl.montelibero.org/images/MTLCITY-28.jpg"
+
+[[CURRENCIES]]
+code="BP1369p29"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p29"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/29 in the Pečurice area of the Bar municipality. The land area is 178.33 sq. m. The land boundaries are:
+  42.033266	19.166115
+  42.033201	19.166199
+  42.033081	19.166056
+  42.033146	19.165972"""
+image="https://mtl.montelibero.org/images/MTLCITY-29.jpg"
+
+[[CURRENCIES]]
+code="BP1369p30"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p30"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/30 in the Pečurice area of the Bar municipality. The land area is 282.09 sq. m. The land boundaries are:
+  42.033375	19.165972
+  42.033298	19.166072
+  42.033136	19.165889
+  ?
+  42.033245	19.165817"""
+image="https://mtl.montelibero.org/images/MTLCITY-30.jpg"
+
+[[CURRENCIES]]
+code="BP1369p31"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p31"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/31 in the Pečurice area of the Bar municipality. The land area is 178.16 sq. m. The land boundaries are:
+  42.033463	19.165855
+  42.033375	19.165972
+  42.033245	19.165817
+  ?"""
+image="https://mtl.montelibero.org/images/MTLCITY-31.jpg"
+
+[[CURRENCIES]]
+code="BP1369p32"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p32"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/32 in the Pečurice area of the Bar municipality. The land area is 235.64 sq. m. The land boundaries are:
+  ?
+  42.033596	19.166122
+  42.033463	19.16594
+  42.033514	19.165873"""
+image="https://mtl.montelibero.org/images/MTLCITY-32.jpg"
+
+[[CURRENCIES]]
+code="BP1369p33"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p33"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/33 in the Pečurice area of the Bar municipality. The land area is 280.75 sq. m. The land boundaries are:
+  42.033596	19.166122
+  42.033523	19.166236
+  42.033383	19.166045
+  42.033463	19.16594"""
+image="https://mtl.montelibero.org/images/MTLCITY-33.jpg"
+
+[[CURRENCIES]]
+code="BP1369p34"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p34"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/34 in the Pečurice area of the Bar municipality. The land area is 201.82 sq. m. The land boundaries are:
+  42.033523	19.166236
+  42.033441	19.166296
+  42.033319	19.166129
+  42.033383	19.166045"""
+image="https://mtl.montelibero.org/images/MTLCITY-34.jpg"
+
+[[CURRENCIES]]
+code="BP1369p35"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p35"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/35 in the Pečurice area of the Bar municipality. The land area is 189.05 sq. m. The land boundaries are:
+  42.033441	19.166296
+  42.033371	19.166373
+  42.033254	19.166214
+  42.033319	19.166129"""
+image="https://mtl.montelibero.org/images/MTLCITY-35.jpg"
+
+[[CURRENCIES]]
+code="BP1369p36"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p36"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/36 in the Pečurice area of the Bar municipality. The land area is 180.67 sq. m. The land boundaries are:
+  42.033371	19.166373
+  42.033303	19.166454
+  42.03319	19.166299
+  42.033254	19.166214"""
+image="https://mtl.montelibero.org/images/MTLCITY-36.jpg"
+
+[[CURRENCIES]]
+code="BP1369p37"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p37"
+desc="""\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/37 in the Pečurice area of the Bar municipality. The land area is 187.30 sq. m. The land boundaries are:
+  42.033303	19.166454
+  42.033252	19.166554
+  42.033126	19.166382
+  42.03319	19.166299"""
+image="https://mtl.montelibero.org/images/MTLCITY-37.jpg"
+
+[[CURRENCIES]]
+code="BP1369p38"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p38"
+desc = """\
+  NFT secures property rights in MTL tokenomics for plot No. 1369/38 in the Pečurice area of the Bar municipality. The land area is 165.53 sq. m. The land boundaries are:
+  42.033252	19.166554
+  42.033229	19.166592
+  42.033048	19.166485
+  42.033126	19.166382"""
+image="https://mtl.montelibero.org/images/MTLCITY-38.jpg"
+
+[[CURRENCIES]]
+code="BP1369p39"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p39"
+desc="NFT secures property rights in MTL tokenomics for plot No. 1369/39 in the Pečurice area of the Bar municipality. The land area is 37.89 sq. m."
+image="https://mtl.montelibero.org/images/MTLCITY-39.jpg"
+
+[[CURRENCIES]]
+code="BP1369p40"
+issuer="GC2ZK7OONSYECUWI42A5KXG2M7XIGEC2CIBOD4BJ4EHWYJWV6BHC6NFT"
+status="live"
+display_decimals=0
+is_unlimited=false
+name="Plot 1369p40"
+desc="NFT secures property rights in MTL tokenomics for plot No. 1369/40 in the Pečurice area of the Bar municipality. The land area is 59.57 sq. m."
+image="https://mtl.montelibero.org/images/MTLCITY-40.jpg"
