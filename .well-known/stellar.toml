@@ -182,6 +182,19 @@ desc="stablecoin to satoshi with guaranteed exchange to BTCMTL"
 image="https://mtl.montelibero.org/images/SATSMTL-small-logo.png"
 
 [[CURRENCIES]]
+code="USDM"
+name= "USD Montelibero"
+issuer="GDHDC4GBNPMENZAOBB4NCQ25TGZPDRK6ZGWUGSI22TVFATOLRPSUUSDM"
+status="live"
+display_decimals=7
+anchor_asset_type="crypto"
+anchor_asset="USD"
+is_asset_anchored=true
+is_unlimited=true
+desc="USDM is a stablecoin pegged to the US dollar, fixing the obligation of its issuer within 24 hours from the receipt of an application from the holder of tokens to exchange any amount of them one-for-one for USDC tokens on the Stellar blockchain"
+image="https://mtl.montelibero.org/images/USDM100.png"
+
+[[CURRENCIES]]
 code="BP1369p12a4"
 issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
 status="live"
