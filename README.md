@@ -62,7 +62,7 @@ Any shareholder or participant in the movement may also become involved in the w
 Любой акционер или участник движения может также включиться в работу исполнительного органа управления Фондом, его Распределённое Правление.
 <h3><b>Ссылки и контакты</b></h3>
 <ul>
- 	<li><a href="https://montelibero.org/mtl-token-contract/">Подробая оферта токена MTL опубликована здесь</a>.</li>
+ 	<li><a href="https://montelibero.org/mtl-token-contract/">Подробная оферта токена MTL опубликована здесь</a>.</li>
  	<li><a href="https://montelibero.org/2022/01/14/mtl-fund-balance-structure/">Актуальное состояние баланса Фонда можно найти здесь</a>.</li>
  	<li>С любыми вопросами о деятельности МТЛ-фонда или движения Монтелиберо вы всегда можете обращаться через <a href="https://t.me/Montelibero_ru/4594">паблики медиасети МТЛ</a>, в телеграм-чате акционеров или посредством чат-бота поддержки <a href="https://t.me/mtl_helper_bot">@mtl_helper_bot</a></li>
 </ul>
