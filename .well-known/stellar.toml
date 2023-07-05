@@ -94,7 +94,7 @@ display_decimals=7
 is_unlimited=true
 name="Montelibero land"
 desc="One MTLand token is equal to one EURMTL and fixes the share of its holders in the capital that accumulates for the collective purchase of the land, and the order in which the land is divided among the participants."
-conditions="The emission of the MTLand token occurs simultaneously with the receipt of funds from its purchaser; issuance of unsecured tokens is not allowed. Full offer see  https://montelibero.org/mtland_token_offer"
+conditions="The emission of the MTLand token occurs simultaneously with the receipt of funds from its purchaser; issuance of unsecured tokens is not allowed. Full offer see https://montelibero.org/mtland_token_offer"
 image="https://mtl.montelibero.org/images/mtland-small-logo.png"
 
 [[CURRENCIES]]
@@ -135,6 +135,17 @@ is_unlimited=true
 name="MTLMiner"
 desc="1 token is always equal to 1 euro, invested in a targeted way in the purchase and provision of cryptocurrency mining in Montenegro."
 conditions="Holders of tokens receive public guarantees from MTLFund to receive a proportional share of their contribution from the profit received as a result of mining and paid in BTCMTL as the income from mining actually arises and funds are received on the distribution accounts of the Fund."
+image="https://mtl.montelibero.org/images/mtlminer-small-logo.png"
+
+[[CURRENCIES]]
+code="MMiner"
+issuer="GBL5CHD6UNJ5COC2D27RVIH5U67T6X3ZCMWTNE3K5MC6XTD7K56MINER"
+status="live"
+display_decimals=7
+is_unlimited=true
+name="Montelibero mining"
+desc="One MMiner token is equal to one EURMTL and fixes the share and rights of its holders in the mining and heating collaboration on the territory of MTL City."
+conditions="The emission of the MMiner token occurs simultaneously with the receipt of funds from its purchaser; issuance of unsecured tokens is not allowed. Full offer see https://montelibero.org/mminer_token_offer"
 image="https://mtl.montelibero.org/images/mtlminer-small-logo.png"
 
 [[CURRENCIES]]
