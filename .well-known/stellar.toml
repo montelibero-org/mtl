@@ -88,14 +88,13 @@ image="https://mtl.montelibero.org/images/btcdebt-small-logo.png"
 
 [[CURRENCIES]]
 code="MTLand"
-issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+issuer="GC7XRK2D6XDNN2LCOJEAPXNAQA3ZBUR3ZR6S4VI4T46GSRM3F6BMLAND"
 status="live"
 display_decimals=7
-anchor_asset_type="other"
 is_unlimited=true
-name="MTLand"
-desc="Option 1 to 1 from the euro with the obligation to buy land in Montenegro and give buyers the right to privatize it on a first come, first served basis."
-conditions="The purchase of a token for EURMTL from an MTL distribution account obliges MTL-Fund to accumulate and redeem land in Montenegro, giving the holders of these tokens a permanent right to exchange these tokens for other assets or privatize a proportional land area for them, taking into account the included costs associated with land ownership and preparation land for privatization. The token is not an investment decision and retains a stable value of 1 euro, only reflecting the financial contribution of its buyer in the process of joint land purchase. To exercise the right to privatize a land plot for the invested amount, contact the issuing organization."
+name="Montelibero land"
+desc="One MTLand token is equal to one EURMTL and fixes the share of its holders in the capital that accumulates for the collective purchase of the land, and the order in which the land is divided among the participants."
+conditions="The emission of the MTLand token occurs simultaneously with the receipt of funds from its purchaser; issuance of unsecured tokens is not allowed. Full offer see  https://montelibero.org/mtl_token_offer"
 image="https://mtl.montelibero.org/images/mtland-small-logo.png"
 
 [[CURRENCIES]]
