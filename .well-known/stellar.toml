@@ -94,7 +94,7 @@ display_decimals=7
 is_unlimited=true
 name="Montelibero land"
 desc="One MTLand token is equal to one EURMTL and fixes the share of its holders in the capital that accumulates for the collective purchase of the land, and the order in which the land is divided among the participants."
-conditions="The emission of the MTLand token occurs simultaneously with the receipt of funds from its purchaser; issuance of unsecured tokens is not allowed. Full offer see  https://montelibero.org/mtl_token_offer"
+conditions="The emission of the MTLand token occurs simultaneously with the receipt of funds from its purchaser; issuance of unsecured tokens is not allowed. Full offer see  https://montelibero.org/mtland_token_offer"
 image="https://mtl.montelibero.org/images/mtland-small-logo.png"
 
 [[CURRENCIES]]
