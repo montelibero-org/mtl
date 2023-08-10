@@ -9,7 +9,7 @@
 </ol>
 <ul>
  	<li>enter to <a href="https://t.me/+Ac7mQTKyIIVmZjAy">private chat of shareholders</a>;</li>
- 	<li>read <a href="https://monte.wiki/en/MTL_token">the MTL token offer</a>;</li>
+ 	<li>read <a href="https://montelibero.org/2022/09/22/mtl-token-contract/">the MTL token offer</a>;</li>
  	<li>open the trustlines for dividends in EURMTL and SATSMTL.</li>
 </ul>
 <ol start="3">
@@ -29,7 +29,7 @@ The twenty largest shareholders of the Fund are members of the Board of Signator
 Any shareholder or participant in the movement may also become involved in the work of the Fund's executive management body, its Distributed Board.
 <h3><b>Links and contacts</b></h3>
 <ul>
- 	<li>A detailed MTL token offer is published here <a href="https://monte.wiki/en/MTL_token">https://monte.wiki/en/MTL_token </a></li>
+ 	<li>A detailed MTL token offer is published here <a href="https://montelibero.org/2022/09/22/mtl-token-contract/">https://montelibero.org/2022/09/22/mtl-token-contract/</a></li>
  	<li>The current state of <a href="https://montelibero.org/2022/01/14/mtl-fund-balance-structure/">the Fund's balance can be found here</a>.</li>
  	<li>You can always contact with any questions about the activities of the MTL Fund or the Montelibero movement through the MTL media network publics, in the shareholder telegram chat or via the support chat bot <a href="https://t.me/mtl_helper_bot">@mtl_helper_bot</a>
 <a name="Russian"></a></li>
