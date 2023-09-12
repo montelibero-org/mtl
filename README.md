@@ -8,7 +8,7 @@
  	<li>If you already have MTL tokens:</li>
 </ol>
 <ul>
- 	<li>enter to <a href="https://t.me/+Ac7mQTKyIIVmZjAy">private chat of shareholders</a>;</li>
+ 	<li>enter to private chat of shareholders;</li>
  	<li>read <a href="https://monte.wiki/en/MTL_token">the MTL token offer</a>;</li>
  	<li>open the trustlines for dividends in EURMTL, SATSMTL and USDM.</li>
 </ul>
@@ -39,7 +39,7 @@ Any shareholder or participant in the movement may also become involved in the w
  	<li>Если уже имеете МТЛ-токены:</li>
 </ol>
 <ul>
- 	<li aria-level="1">заходите <a href="https://t.me/+Ac7mQTKyIIVmZjAy">в закрытый чат акционеров</a>;</li>
+ 	<li aria-level="1">заходите в закрытый чат акционеров;</li>
  	<li aria-level="1">прочитайте <a href="https://montelibero.org/mtl-token-contract/">оферту токена</a>;</li>
  	<li aria-level="1">откройте трастлайны для дивидендов в EURMTL, SATSMTL и USDM.</li>
 </ul>
