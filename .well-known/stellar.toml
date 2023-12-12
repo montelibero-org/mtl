@@ -142,7 +142,7 @@ conditions="Holders of tokens receive public guarantees from MTLFund to receive 
 image="https://mtl.montelibero.org/images/mtlminer-small-logo.png"
 
 [[CURRENCIES]]
-code="MMiner"
+code="MMINER"
 issuer="GBL5CHD6UNJ5COC2D27RVIH5U67T6X3ZCMWTNE3K5MC6XTD7K56MINER"
 status="live"
 display_decimals=7
