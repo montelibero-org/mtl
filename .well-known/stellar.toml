@@ -215,7 +215,7 @@ status="live"
 display_decimals=2
 is_unlimited=true
 name="MTL apartments MF"
-desc="The token records the share of the contribution to the rental residential real estate fund in MTL City"
+desc="The token records the share of the contribution to the rental residential real estate fund in MTL City. Read more here: https://montelibero.org/2023/11/15/regulations_on_mutual_funds_mtl/"
 conditions="The share can, by agreement with the issuer, be converted and withdrawn from the pool of assets in kind, privatizing them, or receiving rental income"
 image="https://mtl.montelibero.org/images/MFApart.png"
 
