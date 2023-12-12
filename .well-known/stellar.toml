@@ -205,6 +205,17 @@ desc="USDM is a stablecoin pegged to the US dollar, fixing the obligation of its
 image="https://mtl.montelibero.org/images/USDM100.png"
 
 [[CURRENCIES]]
+code="MFApart"
+issuer="GD2SNF4QHUJD6VRAXWDA4CDUYENYB23YDFQ74DVC4P5SYR54AAVCUMFA"
+status="live"
+display_decimals=2
+is_unlimited=true
+name="MTL apartments MF"
+desc="The token records the share of the contribution to the rental residential real estate fund in MTL City"
+conditions="The share can, by agreement with the issuer, be converted and withdrawn from the pool of assets in kind, privatizing them, or receiving rental income"
+image="https://mtl.montelibero.org/images/MFApart.png"
+
+[[CURRENCIES]]
 code="BP1369p12a4"
 issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
 status="live"
