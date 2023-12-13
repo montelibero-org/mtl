@@ -12,6 +12,18 @@ FEDERATION_SERVER="https://eurmtl.montelibero.org/federation"
 TRANSFER_SERVER="https://eurmtl.me/sep6"
 SIGNING_KEY="GAXIL2TK4XJEDEET63ZWPLJGIVRCQAVM4GCMQF7ODDABPXE2MTJANN24"
 
+[[PRINCIPALS]]
+name="Igor Tolstov"
+email="iTolstov@montelibero.org"
+keybase="iTolstov"
+telegram="iTolstov"
+
+[[PRINCIPALS]]
+name="Utrosin Valeriy"
+email="poutru@montelibero.org"
+keybase="poutru"
+telegram="poutru"
+
 [DOCUMENTATION]
 ORG_NAME="Montelibero"
 ORG_DBA="Montelibero"
