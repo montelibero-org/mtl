@@ -8,8 +8,8 @@ ACCOUNTS=[
 "GAXIL2TK4XJEDEET63ZWPLJGIVRCQAVM4GCMQF7ODDABPXE2MTJANN24"
 ]
 
-FEDERATION_SERVER="https://anchor.montelibero.org/federation"
-TRANSFER_SERVER="https://anchor.montelibero.org/sep6"
+FEDERATION_SERVER="https://anchor.mtl.montelibero.org/federation"
+TRANSFER_SERVER="https://anchor.mtl.montelibero.org/sep6"
 SIGNING_KEY="GAXIL2TK4XJEDEET63ZWPLJGIVRCQAVM4GCMQF7ODDABPXE2MTJANN24"
 
 [[PRINCIPALS]]
