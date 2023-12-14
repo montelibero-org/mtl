@@ -10,6 +10,8 @@ ACCOUNTS=[
 
 FEDERATION_SERVER="https://anchor.mtl.montelibero.org/federation"
 TRANSFER_SERVER="https://anchor.mtl.montelibero.org/sep6"
+WEB_AUTH_ENDPOINT="https://anchor.mtl.montelibero.org/auth"
+KYC_SERVER="https://anchor.mtl.montelibero.org/kyc"
 SIGNING_KEY="GAXIL2TK4XJEDEET63ZWPLJGIVRCQAVM4GCMQF7ODDABPXE2MTJANN24"
 
 [[PRINCIPALS]]
