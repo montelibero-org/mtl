@@ -1,4 +1,10 @@
-<h1 align="center">MTL fund</h1>
+<h1 align="center">MTL Fund</h1>
+
+MTL is an investment crypto corporation for the development and support of projects in the field of individual freedom.
+
+Live: https://mtl.montelibero.org
+
+The repository is a part of the [Montelibero Organization](https://github.com/montelibero-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 <h2><b>To shareholders of the Montelibero Foundation</b></h2>
 Русская версия — <a href="#Russian">по ссылке</a>.
@@ -62,12 +68,6 @@ Any shareholder or participant in the movement may also become involved in the w
  	<li><a href="https://montelibero.org/2022/01/14/mtl-fund-balance-structure/">Актуальное состояние баланса Фонда можно найти здесь</a>.</li>
  	<li>С любыми вопросами о деятельности МТЛ-фонда или движения Монтелиберо вы всегда можете обращаться через <a href="https://t.me/Montelibero_ru/4594">паблики медиасети МТЛ</a>, в телеграм-чате акционеров или посредством чат-бота поддержки <a href="https://t.me/mtl_helper_bot">@mtl_helper_bot</a></li>
 </ul>
-
-## Basement
-
-Live: https://mtl.montelibero.org
-
-The repository is a part of the [Montelibero Organization](https://github.com/montelibero-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contributing
 
