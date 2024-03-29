@@ -234,6 +234,16 @@ conditions="The share can, by agreement with the issuer, be converted and withdr
 image="https://mtl.montelibero.org/images/MFApart.png"
 
 [[CURRENCIES]]
+code="MFBond"
+issuer="GCKCV7T56CAPFUYMCQUYSEUMZRC7GA7CAQ2BOL3RPS4NQXDTRCSULMFB"
+status="live"
+display_decimals=2
+is_unlimited=true
+name="MTL bonds MF"
+desc="Mutual investment fund secured by MTL fund bonds with monthly dividends"
+image="https://mtl.montelibero.org/images/MFBond.png"
+
+[[CURRENCIES]]
 code="BP1369p12a4"
 issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
 status="live"
