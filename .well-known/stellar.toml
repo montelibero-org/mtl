@@ -105,6 +105,30 @@ desc="BTCDEBT the amount of guarantees for the exchange of stablecoins bitcoins 
 image="https://mtl.montelibero.org/images/btcdebt-small-logo.png"
 
 [[CURRENCIES]]
+code="TONMTL"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="TON"
+is_asset_anchored=true
+is_unlimited=true
+name="TON Montelibero"
+desc="TONMTL is a stablecoin to TON, fixing the obligation of its issuer to exchange any number of tokens one-to-one for TON within 24 hours of receiving an application from the token holder."
+conditions="TONMTL secured by 100% reserve assets in TON"
+image="https://mtl.montelibero.org/images/tonmtl.png"
+
+[[CURRENCIES]]
+code="TONDEBT"
+issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
+status="private"
+display_decimals=2
+is_unlimited=true
+name="TON Montelibero debt"
+desc="TONDEBT is a token that fixes the obligations of its holder to securely store the TONMTL stablecoin reservation and exchange it for the original TON"
+image="https://mtl.montelibero.org/images/tondebt.png"
+
+[[CURRENCIES]]
 code="MTLand"
 issuer="GACKTN5DAZGWXRWB2WLM6OPBDHAMT6SJNGLJZPQMEZBUR4JUGBX2UK7V"
 status="live"
