@@ -1,2 +1,9 @@
 theme: jekyll-theme-cayman
 include: [".well-known"]
+
+repository: montelibero-org/mtl
+baseurl: ""
+url: "https://mtl.montelibero.org"
+
+timezone: UTC
+encoding: "utf-8"

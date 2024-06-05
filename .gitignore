@@ -1,3 +1,5 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
 # phpstorm project files
 .idea
 
@@ -9,10 +11,10 @@ nbproject
 .project
 .settings
 
-# windows thumbnail cache
+# Windows thumbnail cache
 Thumbs.db
 
-# Mac DS_Store Files
+# MacOS DS_Store Files
 .DS_Store
 
 # Env
@@ -33,8 +35,8 @@ _site/
 # Please, define your API key either by:
 # 1/ Defining an ENV variable when calling `jekyll algolia``
 #    $ ALGOLIA_API_KEY='your_api_key' jekyll algolia
-# 2/ Save your API key in a named `_algolia_api_key` in your source directory 
-#    If you do this, we strongly recommend you to NOT track this file in your versionning system. 
+# 2/ Save your API key in a named `_algolia_api_key` in your source directory
+#    If you do this, we strongly recommend you to NOT track this file in your versionning system.
 _algolia_api_key
 
 CNAME
