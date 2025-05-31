@@ -269,6 +269,16 @@ desc="Mutual investment fund secured by MTL fund bonds with monthly dividends"
 image="https://mtl.montelibero.org/images/MFBond.png"
 
 [[CURRENCIES]]
+code="LABR"
+issuer="GA7I6SGUHQ26ARNCD376WXV5WSE7VJRX6OEFNFCEGRLFGZWQIV73LABR"
+status="live"
+display_decimals=2
+is_unlimited=true
+name="Montelibero labor"
+desc="Mutual investment fund stimulating the development of the market for time-tokens of Montelibero project participants"
+image="https://mtl.montelibero.org/images/LABR200.png"
+
+[[CURRENCIES]]
 code="BP1369p12a4"
 issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
 status="live"
