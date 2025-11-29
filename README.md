@@ -45,9 +45,9 @@ Any shareholder or participant in the movement may also become involved in the w
  	<li>Если уже имеете МТЛ-токены:</li>
 </ol>
 <ul>
- 	<li aria-level="1">запросите доступ в закрытый чат акционеров через <a href="https://t.me/mtl_helper_bot>МТЛ-саппорт в Телеграме</a>;</li>
+ 	<li aria-level="1">запросите доступ в закрытый чат акционеров через <a href="https://t.me/mtl_helper_bot">МТЛ-саппорт в Телеграме</a>;</li>
  	<li aria-level="1">прочитайте <a href="https://montelibero.org/mtl-token-contract/">оферту токена</a>;</li>
- 	<li aria-level="1">откройте трастлайны для дивидендов в EURMTL, SATSMTL и USDM.</li>
+ 	<li aria-level="1">откройте трастлайны для дивидендов в EURMTL.</li>
 </ul>
 <ol start="3">
  	<li>Следите за <a href="https://montelibero.org/category/news/mtl-fund-news/">новостями Фонда на сайте</a> и <a href="https://t.me/Montelibero_ru/4594">в Телеграме</a> и участвуйте в его деятельности!</li>
