@@ -279,14 +279,91 @@ desc="Mutual investment fund stimulating the development of the market for time-
 image="https://mtl.montelibero.org/images/LABR200.png"
 
 [[CURRENCIES]]
+code="BP1369p12a1"
+issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
+status="live"
+display_decimals=7
+is_unlimited=false
+name="BP 1369 p12 a1"
+# desc="NFT fixing full property rights in MTL tokenomics for apartment #1 with an area of ____ sq. m, in a state of pre-finishing, with connection to communications, on the ____ floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area of the municipality of Bar, transferring in exchange for ____ thousand EURMTL, excluding tax costs."
+# image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
+fixed_number=1
+
+[[CURRENCIES]]
+code="BP1369p12a2"
+issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
+status="live"
+display_decimals=7
+is_unlimited=false
+name="BP 1369 p12 a2"
+# desc="NFT fixing full property rights in MTL tokenomics for apartment #2 with an area of ____ sq. m, in a state of pre-finishing, with connection to communications, on the ____ floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area of the municipality of Bar, transferring in exchange for ____ thousand EURMTL, excluding tax costs."
+# image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
+fixed_number=1
+
+[[CURRENCIES]]
+code="BP1369p12a3"
+issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
+status="live"
+display_decimals=7
+is_unlimited=false
+name="BP 1369 p12 a3"
+# desc="NFT fixing full property rights in MTL tokenomics for apartment #3 with an area of ____ sq. m, in a state of pre-finishing, with connection to communications, on the ____ floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area of the municipality of Bar, transferring in exchange for ____ thousand EURMTL, excluding tax costs."
+# image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
+fixed_number=1
+
+[[CURRENCIES]]
 code="BP1369p12a4"
 issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
 status="live"
-display_decimals=0
+display_decimals=7
 is_unlimited=false
 name="BP 1369 p12 a4"
 desc="NFT fixing full property rights in MTL tokenomics for apartment #4 with an area of 23.86 sq. m, in a state of pre-finishing, with connection to communications, on the 2nd floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area of the municipality of Bar, transferring in exchange for 31 thousand EURMTL, excluding tax costs."
 image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
+fixed_number=1
+
+[[CURRENCIES]]
+code="BP1369p12a5"
+issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
+status="live"
+display_decimals=7
+is_unlimited=false
+name="BP 1369 p12 a5"
+# desc="NFT fixing full property rights in MTL tokenomics for apartment #5 with an area of ____ sq. m, in a state of pre-finishing, with connection to communications, on the ____ floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area of the municipality of Bar, transferring in exchange for ____ thousand EURMTL, excluding tax costs."
+# image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
+fixed_number=1
+
+[[CURRENCIES]]
+code="BP1369p12a6"
+issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
+status="live"
+display_decimals=7
+is_unlimited=false
+name="BP 1369 p12 a6"
+# desc="NFT fixing full property rights in MTL tokenomics for apartment #6 with an area of ____ sq. m, in a state of pre-finishing, with connection to communications, on the ____ floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area of the municipality of Bar, transferring in exchange for ____ thousand EURMTL, excluding tax costs."
+# image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
+fixed_number=1
+
+[[CURRENCIES]]
+code="BP1369p12a7"
+issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
+status="live"
+display_decimals=7
+is_unlimited=false
+name="BP 1369 p12 a7"
+# desc="NFT fixing full property rights in MTL tokenomics for apartment #7 with an area of ____ sq. m, in a state of pre-finishing, with connection to communications, on the ____ floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area of the municipality of Bar, transferring in exchange for ____ thousand EURMTL, excluding tax costs."
+# image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
+fixed_number=1
+
+[[CURRENCIES]]
+code="BP1369p12a8"
+issuer="GDDTITOAZSV6OFHQJ5H2BALN7SNF4RGKZLSEIUA4RTJK44VCWTXEPNFT"
+status="live"
+display_decimals=7
+is_unlimited=false
+name="BP 1369 p12 a8"
+# desc="NFT fixing full property rights in MTL tokenomics for apartment #8 with an area of ____ sq. m, in a state of pre-finishing, with connection to communications, on the ____ floor of townhouse No. 1, on plot No. 1369/12, in the Pečurice area of the municipality of Bar, transferring in exchange for ____ thousand EURMTL, excluding tax costs."
+# image="https://mtl.montelibero.org/images/MTLC-small-logo.png"
 fixed_number=1
 
 [[CURRENCIES]]
