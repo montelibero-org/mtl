@@ -29,7 +29,6 @@ telegram="poutru"
 
 [DOCUMENTATION]
 ORG_NAME="Montelibero"
-ORG_DBA="Montelibero"
 ORG_URL="https://montelibero.org"
 ORG_LOGO="https://montelibero.org/images/logo.png"
 ORG_DESCRIPTION="MTL is an investment crypto corporation for the development and support of projects in the field of individual freedom"
@@ -44,8 +43,9 @@ status="live"
 display_decimals=7
 anchor_asset_type="other"
 is_unlimited=true
-name="MTL"
-desc="MTL are crypto-shares in the form of investment fund tokens that you can purchase if you want to support its activities and have your own formalized share in their fruits. As the main co-owner among the first 20 shareholders, you automatically receive a membership in the Board of Directors of the Fund and participate in the development and adoption of all decisions, including the joint management of this token."
+name="Montelibero"
+desc="Montelibero (MTL) is a participation token in the MTL Foundation, a crypto fund that owns Bitcoin, Ethereum, and tokenized income-generating assets, as well as real estate and other assets. MTL is traded on the Stellar DEX with two-way trading and in the Soroban AMM pool."
+conditions="Income from token ownership is determined and distributed by the Foundation's governing board (multisig). Foundation reports are published on stat.mtlf.me."
 image="https://mtl.montelibero.org/images/mtl-small-logo.png"
 
 [[CURRENCIES]]
